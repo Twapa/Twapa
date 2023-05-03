@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Twapa</h1>
-<h3 align="center">A PASSIONATE FLUTTER APP AND ALGORITHMIC STRATEGY DEVELOPER from Malawi</h3>
+<h3 align="center">A PASSIONATE FLUTTER APP AND ALGORITHMIC STRATEGY DEVELOPER FROM MALAWI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=twapa&label=Profile%20views&color=0e75b6&style=flat" alt="twapa" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **developing MQL5 strategy projects**
 
-- 💬 Ask me about **Flutter ,MQL5**
+- 💬 Ask me about **Flutter,MQL5,Python**
 
 - 📫 How to reach me **mlizer58@gmail.com**
 
