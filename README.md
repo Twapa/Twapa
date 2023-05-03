@@ -18,9 +18,9 @@ I'm a programmer working on a variety on  Projects! | FREELANCER  - I am adept a
 
 ### Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twapa&show_icons=true&locale=en&layout=compact" height="210" width="210" alt="twapa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twapa&show_icons=true&locale=en&layout=compact=true&show_icons=true&theme=onedark" height="210" width="210" alt="twapa" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=twapa&show_icons=true&locale=en" height="210" width="310" alt="twapa" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=twapa&theme=onedark" height="210" width="310" alt="twapa" /></p>
 
 ### Github Repos
 
