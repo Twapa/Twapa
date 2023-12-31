@@ -18,9 +18,9 @@ I'm a programmer working on a variety on  Projects! | FREELANCER  - I am adept a
 
 ### Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twapa&show_icons=true&locale=en&layout=compact=true&show_icons=true&theme=onedark" height="210" width="210" alt="twapa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twapa&show_icons=true&locale=en&layout=compact=true&show_icons=true&theme=onedark" height="210" width="210" alt="twapa" /></p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=twapa&theme=onedark" height="210" width="310" alt="twapa" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=Twapa&theme=onedark" height="210" width="310" alt="twapa" /></p>
 
 ### Github Repos
 
@@ -28,5 +28,4 @@ I'm a programmer working on a variety on  Projects! | FREELANCER  - I am adept a
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mathewstwaJ"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mathewstwaJ" /></a></p><br><br>
+
