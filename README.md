@@ -2,7 +2,7 @@
 
 <div>
  <p>
-I'm a programmer working on a variety on  Projects! | FREELANCER  - I am adept at developing and optimizing algorithmic trading strategies 
+I'm a programmer working on a variety of  Projects! | FREELANCER  - I am adept at developing and optimizing algorithmic trading strategies 
 </p>
 </div>
 
