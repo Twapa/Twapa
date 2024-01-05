@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 ### Hi there 👋
 
 Cultivating my skills independently, I'm a programmer working on a variety of  Projects.
@@ -39,6 +32,11 @@ Cultivating my skills independently, I'm a programmer working on a variety of  P
   <img src="https://komarev.com/ghpvc/?username=twapa&label=Profile%200views&color=129e00&style=plastic" alt="twapa" /> </p>
 <hr/>
 
+
+### Github Repos
+
+[![PYTHON MT5 BOT ](https://github-readme-stats.vercel.app/api/pin/?username=twapa&repo=MT5-PYTHON-BOT&show_owner=true&theme=onedark)](https://github.com/Twapa/MT5-PYTHON-BOT)
+
 <span>
   <p><img align="right" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=twapa&show_icons=true&locale=en&layout=compact" alt="twapa" /></p>
 <p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=twapa" alt="twapa" /></p>
@@ -46,9 +44,7 @@ Cultivating my skills independently, I'm a programmer working on a variety of  P
 
 </span>
 
-### Github Repos
 
-[![PYTHON MT5 BOT ](https://github-readme-stats.vercel.app/api/pin/?username=twapa&repo=MT5-PYTHON-BOT&show_owner=true&theme=onedark)](https://github.com/Twapa/MT5-PYTHON-BOT)
 
 
 
