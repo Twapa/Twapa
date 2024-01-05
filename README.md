@@ -5,13 +5,13 @@ Cultivating my skills independently, I'm a programmer working on a variety of  P
 
 #### About me
   <div class="text-mono text-small mb-3">
-        <a href="/twapa/twapa" class="no-underline Link--primary">Twapa</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+        <a href="/twapa" class="no-underline Link--primary">Twapa</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
       </div>
 <ul>
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @Twapa</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m  Full Stack developer (Laravel,Vue Js etc)</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I develop algorithmic trading strategies(Python,MQL5 etc)</li>
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I develop android apps(Flutter,Dartetc) <a href="https://play.google.com/store/apps/developer?id=Mathewz" rel="MY APPS">Twapa</a></li> 
+<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">💞️</g-emoji> I develop android apps(Flutter,Dart etc) <a href="https://play.google.com/store/apps/developer?id=Mathewz" rel="MY APPS">Twapa</a></li> 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Rust </li>
 <li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on projects</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me on linkedIn <a href="https://www.linkedin.com/in/twapa/" rel="nofollow">Twapa</a></li>
