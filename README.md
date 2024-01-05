@@ -9,7 +9,7 @@ Cultivating my skills independently, I'm a programmer working on a variety of  P
       </div>
 <ul>
 <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m @Twapa</li>
-<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m  Full Stack developer (Laravel,Vue Js etc)</li>
+<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m  Full Stack developer (Laravel, Docker, Vue Js etc)</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I develop algorithmic trading strategies(Python,MQL5 etc)</li>
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">💞️</g-emoji> I develop android apps(Flutter,Dart etc) <a href="https://play.google.com/store/apps/developer?id=Mathewz" rel="MY APPS">Twapa</a></li> 
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Rust </li>
